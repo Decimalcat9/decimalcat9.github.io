@@ -2,10 +2,10 @@ body{
 	
 font-family: "Times New Roman", "Times", serif;
 	
-color: #AAFF00;
-	background-color: #ff6666;
+color: #00bfff;
+	background-color: #ccffcc;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #4d94ff;
 	text-align: center;
 
 }
@@ -18,14 +18,14 @@ font-size: 1.3em;
 	
 text-align: center;
 	
-text-shadow: 1px 1px #ff0000;
+text-shadow: 1px 1px #66b3ff;
 
 }
 
 
 td, th {
     
-border: 1px solid #dddddd;
+border: 1px solid #ffff99;
     
 text-align: left;
     
@@ -37,6 +37,6 @@ padding: 8px;
 
 tr:nth-child(even) {
     
-background-color: #dddddd;
+background-color: #ffff99;
 
 }
